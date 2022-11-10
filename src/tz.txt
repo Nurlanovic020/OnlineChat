@@ -1,0 +1,27 @@
+Online Chat dasturini tuzing . Bunda :
+1) User  , Message  , Group ,  classlarini OOP conception laridan foydalangan
+holatda (Encapsulation va hkz) shakllantiring. Dastur bitta admin user bor bolgan
+holatda ishga tushsin.
+
+2) Dastur ishga tushganda foyudalanuvchida login bo’lish yoki
+registratsiyadan otish imkoniyati bo’lsin.
+
+Agar foydalanuvchi admin bo’lsa
+unga quyidagi amallarni bajarish imkoni bo’lsin ( Agar login bolsa username va
+parol kiritgan holda dasturdan foydalanishni davom ettirsin) :
+
+      a) Mavjud foydalanuvchilarni ko’rish  -> DONE
+      b) Istagan foydalanuvchini blocklash  -> DONE
+      c) Blocklangan foydalanuvchilarni activelashtirish -> DONE
+      d) Istagan foydalanuvchini delete qilish -> DONE
+      e) Change password. (O’zini passwordini) -> DONE
+
+3) Agar login bolgan yoki registratsiya qilgan foydalanuvchi oddiy
+foydalanuvchi bo’lsa unga quyidagi amallarni bajarish imkoni bo’lsin :
+(U ham login bo’lganda username va password larni kiritish orqali tizimga kirsin.)
+
+      a) Boshqa foydalanuvchilarga message jo’natish -> DONE
+      b) O’zi egasi bo’lgan guruhga yoki o’zi a’zo bo’lgan guruhga message jo’natish .
+       c) Guruh yaratish va mavjud guruhlarga a’zo bolish uchun shu guruhnign egasidan rozilik so’rovini jo’natish
+       d) O’zguruhiga qoshilmoqchi bolganlar so’rovini tasdiqlash yoki rad etish
+       e) O’z parolini o’zgartirish.-> DONE
